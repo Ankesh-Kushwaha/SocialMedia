@@ -1,0 +1,41 @@
+.AppContainer {
+  display: flex;
+}
+
+.content {
+  width: 100%;
+}
+
+.sideBar {
+  min-height: 800px;
+}
+
+.post-card{
+   width:70%;
+   margin:20px;
+  margin-left: 50px;
+}
+
+.hastag{
+  margin:2px;
+}
+
+.close-button{
+  margin-left:95%;
+}
+
+.create-post{
+   width:80%;
+   margin:10%;
+   margin-top:50px;
+}
+.welcome-message{
+   margin:100px;
+   color:brown;
+   font-family: 'Times New Roman', Times, serif;
+}
+
+.spinner{
+   margin:100px;
+   scale: 3;
+}
